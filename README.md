@@ -14,6 +14,7 @@ My journey of solving Data Structures and Algorithms problems consistently and i
 | Day | Date | Problem | Topic | Difficulty | Status |
 |---|---|---|---|---|---|
 | 01 | 09-Nov-2026 | Top K Frequent Elements | HashMap + Heap | Medium | Added |
+| 13 | Roman to Integer | Easy | [Solution](LeetCode/Strings/13_Roman_to_Integer.cpp) |
 
 ## 📚 Topics Covered
 
